@@ -7,6 +7,7 @@ function fizzbuzzIf(num) {
         return "Buzz";
     } else {
         return num;
+
     }
 }
 
