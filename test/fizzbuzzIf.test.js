@@ -9,7 +9,7 @@ describe('fizzbuzzIf', () => {
     });
 
     test('returns "Fizz" for multiples of 3', () => {
-        expect(fizzbuzzIf(3)).toBe('Fizz');
+        expect(fizzbuzzIf(3)).toBe('Fizzi');
         expect(fizzbuzzIf(6)).toBe('Fizz');
         expect(fizzbuzzIf(9)).toBe('Fizz');
     });
